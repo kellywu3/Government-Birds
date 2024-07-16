@@ -12,6 +12,9 @@ This C++ program uses OpenGL to demonstrate the implementation of Boid's Laws.
 [OpenGL](https://www.opengl.org)
 - Open Graphics Library: application programming interface (API) that allows graphical display
 
+[Build Configurations](https://code.visualstudio.com/docs/editor/tasks)
+- build tasks allow automation of builds leading to ease of configuring specific builds and switching between tasks
+
 ## CONCEPTS
 
 ***Boids Algorithm***
@@ -23,7 +26,7 @@ This C++ program uses OpenGL to demonstrate the implementation of Boid's Laws.
 
 
 ***Object Oriented Programming***
-- programming model organizing design around objects, focusing on creating abstractions with clear relationships and scopes
+- programming model organizing design around objects, focusing on creating abstractions with clear relationships and scopesas
 
 ## SOURCES
 
