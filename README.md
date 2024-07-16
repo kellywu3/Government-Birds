@@ -2,9 +2,9 @@
 
 ## OVERVIEW
 
-This C++ program uses OpenGL to demonstrate the implementation of Boid's Laws.
+This C++ program uses OpenGL to demonstrate the implementation of Boids' Laws.
 
-**Boid's Algorithm**
+**Boids Algorithm**
 ![Government Birds](files/Government-Birds.gif)
 
 ## TOOLS
